@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AssignmentOnePart2</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="year">Year</string>
+    <string name="poster_image">Movie Poster</string>
+    <string name="search">Search</string>
+    <string name="enter_movie_name">Enter movie name</string>
+    <string name="back">Back</string>
+</resources>
